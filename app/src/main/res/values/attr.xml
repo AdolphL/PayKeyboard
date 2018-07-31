@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PayKeyboard">
+        <attr name="title_text" format="string" />
+        <attr name="title_text_color" format="color" />
+        <attr name="title_text_size" format="integer" />
+        <attr name="help_text" format="string" />
+        <attr name="help_text_color" format="color" />
+        <attr name="help_text_size" format="integer" />
+        <attr name="number_background_color" format="color" />
+        <attr name="number_text_size" format="integer" />
+        <attr name="number_text_color" format="color" />
+        <attr name="number_spec_background_color" format="color" />
+        <attr name="number_rect_line_color" format="color" />
+        <attr name="number_pressed_color" format="color" />
+        <attr name="delete_button_background" format="reference" />
+    </declare-styleable>
+</resources>
+
+
